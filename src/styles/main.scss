@@ -1,0 +1,37 @@
+@import "./constants.scss";
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+  background-color: #f4f5fa;
+  
+}
+
+#root {
+  width: 100%;
+}
+
+.full-width {
+  width: 100%;
+}
+
+
+
+
+.signOut {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+
+
+
+
+.itemAligment {
+   display: flex;
+   justify-content: center;
+}
