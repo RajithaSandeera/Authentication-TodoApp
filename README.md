@@ -1,7 +1,7 @@
 # React + TypeScript + Vite
 ![image](https://github.com/user-attachments/assets/f2389535-d2ff-4019-941e-1c1fe601e972)
 
-To get started with this Vite React todo application, follow these steps: git clone https://github.com/your-username/your-repo-name.git
+To get started with this Vite React todo application, follow these steps: [git clone https://github.com/your-username/your-repo-name.git](https://github.com/RajithaSandeera/Authentication-TodoApp.git)
 Navigate to the Project Directory: cd your-repo-name
 npm run dev
 
