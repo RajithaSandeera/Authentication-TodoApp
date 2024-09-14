@@ -1,4 +1,19 @@
 # React + TypeScript + Vite
+![image](https://github.com/user-attachments/assets/f2389535-d2ff-4019-941e-1c1fe601e972)
+
+To get started with this Vite React todo application, follow these steps: git clone https://github.com/your-username/your-repo-name.git
+Navigate to the Project Directory: cd your-repo-name
+npm run dev
+
+Features
+Todo Management: Add, edit, delete, and toggle the completion status of todos.
+Local Storage Integration: Todos are saved to and retrieved from local storage to persist data across page reloads.
+Responsive Design: The application is designed to be mobile-friendly and responsive.
+Official Plugins
+This project utilizes the following official Vite plugins for React:
+
+@vitejs/plugin-react: Uses Babel for Fast Refresh.
+@vitejs/plugin-react-swc: Uses SWC for Fast Refresh.
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
